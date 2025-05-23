@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\TetrisCoffeAPI.Application\TetrisCoffeAPI.Application.csproj" />
+    <ProjectReference Include="..\TetrisCoffeAPI.Infrastructure\TetrisCoffeAPI.Infrastructure.csproj" />
+    <ProjectReference Include="..\TetrisCoffeAPI.Persistence\TetrisCoffeAPI.Persistence.csproj" />
+    <ProjectReference Include="..\TetrisCoffeAPI.Domain\TetrisCoffeAPI.Domain.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
