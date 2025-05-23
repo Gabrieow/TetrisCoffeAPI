@@ -5,7 +5,7 @@ API RESTful para gerenciamento de uma cafeteria, incluindo o controle de vendas,
 ## Sobre o Projeto
 
 Tetris Coffe é uma ideia de cafeteria que tive com uma amiga: um ambiente acolhedor voltado à confraternização entre amigos, unindo duas coisas incríveis da vida — Café e Tetris!  
-A realização dessa cafeteria ainda é um sonho que desejo concretizar. Enquanto isso, este projeto é uma forma de dar vida à ideia através da tecnologia.
+A realização desse sonho é algo que eu vejo em uma realidade futura. Gosto muito da idéia de ter meu próprio negócio :)
 
 ---
 
